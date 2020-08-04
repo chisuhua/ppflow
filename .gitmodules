@@ -4,3 +4,18 @@
 [submodule "3rdparty/tiramisu"]
 	path = 3rdparty/tiramisu
 	url = https://gitee.com/chisuhua/tiramisu.git
+[submodule "3rdparty/dmlc-core"]
+	path = 3rdparty/dmlc-core
+	url = https://github.com/dmlc/dmlc-core
+[submodule "3rdparty/dlpack"]
+	path = 3rdparty/dlpack
+	url = https://github.com/dmlc/dlpack
+[submodule "3rdparty/vta-hw"]
+	path = 3rdparty/vta-hw
+	url = https://github.com/apache/incubator-tvm-vta
+[submodule "3rdparty/rang"]
+	path = 3rdparty/rang
+	url = https://github.com/agauniyal/rang
+[submodule "3rdparty/tvm-ppflow"]
+	path = 3rdparty/tvm-ppflow
+	url = https://gitee.com/chisuhua/tvm-ppflow.git
